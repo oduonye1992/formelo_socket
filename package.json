@@ -1,0 +1,16 @@
+{
+  "name": "formelo_socket",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start" : "node index.js"
+  },
+  "author": "@oduonye1992",
+  "license": "ISC",
+  "dependencies": {
+    "kafka-node": "^2.2.0",
+    "websocket": "^1.0.24"
+  }
+}
